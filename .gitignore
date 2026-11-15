@@ -1,0 +1,6 @@
+build/
+dist/
+*.local.tex
+vendors.local.txt
+CLAUDE.local.md
+.DS_Store
